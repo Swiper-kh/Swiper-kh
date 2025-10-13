@@ -42,10 +42,14 @@ Currently exploring:
 
 ---
 
-### 🚀 Top Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swiper-kh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4" />
-</div>
+### 🚀 Top Languages
+
+Most Used Languages:
+  
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
