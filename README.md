@@ -1,7 +1,7 @@
 <!-- 🖤 MORCÉA x Swiper-kh GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amran+Hawaga+👋;Computer+Science+Student+%40+George+Brown+College;Developer+%7C+Designer+%7C+Builder;Creating+the+Morcéa™+Experience.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amran+Hawaga+👋;Computer+Science+Student+%40+George+Brown+College;Developer+%7C+Designer+%7C+Builder;Creating+the+Morcéa™+Fashion.">
 </div>
 
 ---
