@@ -15,7 +15,7 @@ Currently exploring:
 - 🌐 **JavaScript / HTML / CSS** for web experiences  
 - 🧩 **MySQL** for structured data  
 - 🧠 **AI workflows** for creative automation  
-- 👕 Building the fashion-tech brand **Morcéa™**  
+- 👕 Building the fashion brand **Morcéa™**  
 
 ---
 
