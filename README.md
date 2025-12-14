@@ -1,7 +1,7 @@
 <!-- 🖤 MORCÉA x Swiper-kh GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amran+Hawaga+👋;Computer+Science+Student+%40+George+Brown+College;Developer+%7C+Designer+%7C+Builder;Creating+the+Morcéa™+Fashion.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amran+Hawaga+👋;Computer+Science+Student+%40+George+Brown+College;Developer+%7C+Designer+%7C+Builder.">
 </div>
 
 ---
@@ -15,7 +15,6 @@ Currently exploring:
 - 🌐 **JavaScript / HTML / CSS** for web experiences  
 - 🧩 **MySQL** for structured data  
 - 🧠 **AI workflows** for creative automation  
-- 👕 Building the fashion brand **Morcéa™**  
 
 ---
 
@@ -27,7 +26,6 @@ Currently exploring:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 </p>
@@ -48,7 +46,6 @@ Most Used Languages:
   
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -70,6 +67,6 @@ Most Used Languages:
 ---
 
 <div align="center">
-  <h3>🖤 “Chosen Few.” – Morcéa™</h3>  
+  <h3>🖤 “Chosen Few.”</h3>  
   <sub>crafted with discipline, style, and code.</sub>
 </div>
