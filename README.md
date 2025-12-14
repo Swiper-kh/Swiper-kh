@@ -1,72 +1,36 @@
-<!-- 🖤 MORCÉA x Swiper-kh GitHub Profile README -->
+## Hi, I’m Amran Hawaga 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amran+Hawaga+👋;Computer+Science+Student+%40+George+Brown+College;Developer+%7C+Designer+%7C+Builder.">
-</div>
+I’m a Computer Science student at George Brown College with hands-on experience building full-stack web applications, backend systems, and desktop software.
 
----
-
-### 🧠 About Me  
-I'm **Amran Hawaga**, a full-time **Computer Science student at George Brown College** with a focus on **web development, AI-assisted systems, and creative software design**.  
-
-My world blends **code and culture** — where logic meets aesthetic.  
-Currently exploring:
-- ⚙️ **.NET (C#)** and backend systems  
-- 🌐 **JavaScript / HTML / CSS** for web experiences  
-- 🧩 **MySQL** for structured data  
-- 🧠 **AI workflows** for creative automation  
+I focus on writing clean, maintainable code and building practical systems that solve real problems.
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-</p>
+## 💻 Technical Focus
+- **Backend:** C#, ASP.NET Core MVC, PHP  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Databases:** MySQL, SQL Server  
+- **Desktop:** Java, JavaFX  
+- **Tools:** Git, Docker, GitHub Actions, Maven  
+- **Deployment:** Azure App Service (CI/CD basics)
 
 ---
 
-### 📊 GitHub Analytics  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swiper-kh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=7FFFD4" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swiper-kh&theme=react&hide_border=true&background=0D1117&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4" width="48%">
-</div>
+## 📌 Featured Projects
+- **Virtual Event Ticketing System** – ASP.NET Core MVC app with role-based access, Dockerized deployment, and CI/CD.  
+- **HRM & Payroll System** – JavaFX desktop application for employee and payroll management.  
+- **Voting Application** – PHP & MySQL web app with authentication and automated testing.  
+- **Farber Financial Website** – Independent multi-page responsive website built with semantic HTML and CSS.
 
 ---
 
-### 🚀 Top Languages
-
-Most Used Languages:
-  
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+## 🎯 Currently Seeking
+- Junior Software Developer roles  
+- Software Engineering Internships  
+- IT / Technical Support positions
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:Amran.Hawaga@georgebrown.ca"><img src="https://img.shields.io/badge/Email-7FFFD4?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://www.instagram.com/emran.khw"><img src="https://img.shields.io/badge/Instagram-7FFFD4?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  <a href="https://github.com/Swiper-kh"><img src="https://img.shields.io/badge/GitHub-7FFFD4?style=for-the-badge&logo=github&logoColor=black"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-</div>
-
----
-
-<div align="center">
-  <h3>🖤 “Chosen Few.”</h3>  
-  <sub>crafted with discipline, style, and code.</sub>
-</div>
+## 📫 Contact
+- Email: Amran.Hawaga@georgebrown.ca  
+- GitHub: https://github.com/Swiper-kh
