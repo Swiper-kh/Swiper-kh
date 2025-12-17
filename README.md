@@ -32,5 +32,6 @@ I focus on writing clean, maintainable code and building practical systems that 
 ---
 
 ## 📫 Contact
-- Email: Amran.Hawaga@georgebrown.ca  
+- Email: emran.khawaja.j7@gmail.com 
+- School Email: Amran.Hawaga@georgebrown.ca  
 - GitHub: https://github.com/Swiper-kh
